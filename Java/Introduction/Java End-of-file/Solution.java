@@ -17,5 +17,6 @@ public class Solution {
             System.out.println(i + " "+ line);
             i++;
         }
+        input.close();
     }
 }
