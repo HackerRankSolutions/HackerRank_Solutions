@@ -16,4 +16,6 @@
         - [Java End-of-file](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Introduction/Java%20End-of-file)
 - Python
     - Introduction
-        - 
+        - [Say Hello, World! With Python](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Say%20Hello%2C%20World!%20With%20Python)
+        - [Python If-Else](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Python%20If-Else)
+        - [Python Division](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Python%20Division)
