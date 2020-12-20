@@ -1,5 +1,8 @@
 ### HackerRank_Solutions
 
+[![Java](https://img.shields.io/badge/Java-8-green)](https://openjdk.java.net/projects/jdk8u/)
+[![Python](https://img.shields.io/badge/Python-3.7.7-blue)](https://www.python.org/downloads/windows/)
+
 - Java
     - Introduction
         - [Welcome to Java!](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Introduction/Welcome%20to%20Java!)
