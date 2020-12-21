@@ -22,4 +22,4 @@
         - [Say Hello, World! With Python](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Say%20Hello%2C%20World!%20With%20Python)
         - [Python If-Else](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Python%20If-Else)
         - [Python Division](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Python%20Division)
-        - [Python]
+        - [Arithmetic Operators](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Arithmetic%20Operators)
