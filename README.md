@@ -17,6 +17,10 @@
         - [Java Int to String](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Introduction/Java%20Int%20to%20String)
         - [Java Date and Time](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Introduction/Java%20Date%20and%20Time)
         - [Java End-of-file](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Introduction/Java%20End-of-file)
+    - Strings
+        - [Java String Reverse](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Strings/Java%20String%20Reverse)
+        - [Java Substring](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Strings/Java%20Substring)
+        - [Java Substring Comparisons](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Java/Strings/Java%20Substring%20Comparisons)
 - Python
     - Introduction
         - [Say Hello, World! With Python](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Say%20Hello%2C%20World!%20With%20Python)
