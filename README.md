@@ -32,3 +32,4 @@
         - [Write a Function](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Write%20a%20function)
     - Basic Data Types
         - [List Comprehensions](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Basic%20Data%20Types/List%20Comprehensions)
+        - [Find the Runner-Up Score!](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!)
