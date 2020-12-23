@@ -28,5 +28,6 @@
         - [Python Division](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Python%20Division)
         - [Arithmetic Operators](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Arithmetic%20Operators)
         - [Loops](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Loops)
+        - [Print Function](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Introduction/Print%20Function)
     - Basic Data Types
         - [List Comprehensions](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Basic%20Data%20Types/List%20Comprehensions)
