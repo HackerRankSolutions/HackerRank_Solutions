@@ -34,3 +34,4 @@
         - [List Comprehensions](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Basic%20Data%20Types/List%20Comprehensions)
         - [Find the Runner-Up Score!](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!)
         - [Nested Lists](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Basic%20Data%20Types/Nested%20Lists)
+        - [Finding the Percentage](https://github.com/HackerRankSolutions/HackerRank_Solutions/tree/master/Python/Basic%20Data%20Types/Finding%20the%20Percentage)
